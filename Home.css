@@ -1,91 +1,103 @@
 .u-section-1-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/ODESZA-A-Moment-Apart.png");
-  background-position: 50% 50%;
 }
 
 .u-section-1-1 .u-sheet-1 {
-  min-height: 780px;
+  min-height: 1100px;
 }
 
 .u-section-1-1 .u-text-1 {
   font-size: 4.5rem;
-  width: 745px;
-  margin: 288px auto 0;
+  margin: 60px 198px 0;
 }
 
 .u-section-1-1 .u-text-2 {
-  width: 670px;
-  margin: 42px auto 0;
+  margin: 0 235px;
 }
 
 .u-section-1-1 .u-text-3 {
-  width: 106px;
-  margin: 69px auto 0;
+  margin: 69px 517px 60px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1-1 .u-sheet-1 {
-    min-height: 650px;
+    min-height: 690px;
   }
 
   .u-section-1-1 .u-text-1 {
-    margin-right: 75px;
+    width: 745px;
+    margin-left: 98px;
+    margin-right: 98px;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    margin-right: 136px;
+    margin-left: 135px;
+  }
+
+  .u-section-1-1 .u-text-3 {
+    margin-right: 418px;
+    margin-left: 417px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1-1 .u-sheet-1 {
-    min-height: 560px;
+    min-height: 634px;
   }
 
   .u-section-1-1 .u-text-1 {
     font-size: 3.75rem;
-    width: auto;
-    margin-top: 188px;
+    width: 720px;
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-1-1 .u-text-2 {
-    margin-top: 142px;
-    margin-right: 40px;
-    margin-left: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
   }
 
   .u-section-1-1 .u-text-3 {
-    margin-top: 10px;
+    margin-right: 307px;
+    margin-left: 307px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1-1 .u-sheet-1 {
-    min-height: 470px;
+    min-height: 599px;
   }
 
   .u-section-1-1 .u-text-1 {
     font-size: 3rem;
+    width: 540px;
   }
 
   .u-section-1-1 .u-text-2 {
-    width: auto;
-    margin-top: 63px;
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-1-1 .u-text-3 {
-    margin-top: 40px;
-    margin-bottom: 50px;
+    margin-right: 217px;
+    margin-left: 217px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1-1 .u-sheet-1 {
-    min-height: 296px;
+    min-height: 528px;
   }
 
   .u-section-1-1 .u-text-1 {
     font-size: 2.75rem;
+    width: 340px;
+  }
+
+  .u-section-1-1 .u-text-3 {
+    margin-right: 117px;
+    margin-left: 117px;
   }
 }.u-section-1-2 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/PSX_20210524_165453.jpg");
@@ -93,52 +105,55 @@
 }
 
 .u-section-1-2 .u-sheet-1 {
-  min-height: 780px;
+  min-height: 1100px;
 }
 
 .u-section-1-2 .u-text-1 {
   font-size: 2rem;
   font-weight: 700;
-  margin: 52px auto 0 0;
+  margin: 97px auto 0 17px;
 }
 
 .u-section-1-2 .u-text-2 {
   font-size: 1.125rem;
   font-weight: 700;
-  margin: 0 auto 0 0;
+  margin: 0 auto 0 17px;
 }
 
 .u-section-1-2 .u-image-1 {
   width: 819px;
   height: 516px;
-  margin: 52px auto 0;
+  margin: 78px auto 60px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1-2 .u-sheet-1 {
-    min-height: 650px;
+    min-height: 907px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    width: auto;
+    margin-top: 42px;
   }
 
   .u-section-1-2 .u-text-2 {
     color: rgb(255, 209, 61) !important;
+    width: auto;
   }
 
   .u-section-1-2 .u-image-1 {
     height: 467px;
-    margin-top: 23px;
-    margin-bottom: 40px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1-2 .u-sheet-1 {
-    min-height: 560px;
+    min-height: 633px;
   }
 
   .u-section-1-2 .u-image-1 {
     height: 411px;
     margin-top: 0;
-    margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -147,22 +162,17 @@
 
 @media (max-width: 767px) {
   .u-section-1-2 .u-sheet-1 {
-    min-height: 470px;
+    min-height: 520px;
   }
 
   .u-section-1-2 .u-text-1 {
     font-size: 1.5rem;
-    width: auto;
     margin-top: 29px;
-  }
-
-  .u-section-1-2 .u-text-2 {
-    width: auto;
   }
 
   .u-section-1-2 .u-image-1 {
     height: 275px;
-    margin-top: 23px;
+    margin-top: 78px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -171,7 +181,7 @@
 
 @media (max-width: 575px) {
   .u-section-1-2 .u-sheet-1 {
-    min-height: 225px;
+    min-height: 394px;
   }
 
   .u-section-1-2 .u-image-1 {
@@ -186,25 +196,25 @@
 }
 
 .u-section-1-3 .u-sheet-1 {
-  min-height: 780px;
+  min-height: 1100px;
 }
 
 .u-section-1-3 .u-text-1 {
   font-size: 2rem;
   font-weight: 700;
-  margin: 52px auto 0 0;
+  margin: 95px auto 0 17px;
 }
 
 .u-section-1-3 .u-text-2 {
   font-size: 1.125rem;
   font-weight: 700;
-  margin: 0 auto 0 0;
+  margin: 0 auto 0 17px;
 }
 
 .u-section-1-3 .u-image-1 {
   height: 432px;
-  margin-top: 90px;
-  margin-bottom: 0;
+  margin-top: 72px;
+  margin-bottom: 60px;
   margin-left: 0;
 }
 
@@ -231,7 +241,6 @@
   .u-section-1-3 .u-image-1 {
     height: 342px;
     margin-top: 0;
-    margin-bottom: 60px;
     margin-left: initial;
   }
 }
@@ -254,7 +263,6 @@
   .u-section-1-3 .u-image-1 {
     height: 237px;
     margin-top: 21px;
-    margin-bottom: 0;
     margin-left: initial;
   }
 }
@@ -269,25 +277,25 @@
 }
 
 .u-section-1-4 .u-sheet-1 {
-  min-height: 780px;
+  min-height: 1100px;
 }
 
 .u-section-1-4 .u-text-1 {
   font-size: 2rem;
   font-weight: 700;
-  margin: 52px auto 0 0;
+  margin: 97px auto 0 18px;
 }
 
 .u-section-1-4 .u-text-2 {
   font-size: 1.125rem;
   font-weight: 700;
-  margin: 0 auto 0 0;
+  margin: 0 auto 0 18px;
 }
 
 .u-section-1-4 .u-image-1 {
-  height: 582px;
-  margin-top: 52px;
-  margin-bottom: 0;
+  height: 567px;
+  margin-top: 69px;
+  margin-bottom: 60px;
 }
 
 @media (max-width: 1199px) {
@@ -300,11 +308,7 @@
   }
 
   .u-section-1-4 .u-image-1 {
-    height: 496px;
-    width: 847px;
     margin-top: 23px;
-    margin-left: auto;
-    margin-right: auto;
   }
 }
 
@@ -316,9 +320,6 @@
   .u-section-1-4 .u-image-1 {
     height: 406px;
     margin-top: 0;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
   }
 }
 
@@ -338,9 +339,9 @@
   }
 
   .u-section-1-4 .u-image-1 {
-    height: 338px;
-    width: 450px;
-    margin: 12px auto 29px;
+    height: 567px;
+    margin-top: 12px;
+    margin-bottom: 29px;
   }
 }
 
@@ -348,37 +349,32 @@
   .u-section-1-4 .u-sheet-1 {
     min-height: 201px;
   }
-
-  .u-section-1-4 .u-image-1 {
-    height: 256px;
-    width: 340px;
-  }
 }.u-section-1-5 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/PSX_20210524_165453.jpg");
   background-position: 50% 50%;
 }
 
 .u-section-1-5 .u-sheet-1 {
-  min-height: 780px;
+  min-height: 1100px;
 }
 
 .u-section-1-5 .u-text-1 {
   font-size: 2rem;
   font-weight: 700;
-  margin: 52px auto 0 0;
+  margin: 98px auto 0 14px;
 }
 
 .u-section-1-5 .u-text-2 {
   font-size: 1.125rem;
   font-weight: 700;
-  margin: 0 auto 0 0;
+  margin: 0 auto 0 14px;
 }
 
 .u-section-1-5 .u-list-1 {
   grid-template-rows: auto;
   grid-auto-rows: 100%;
   width: 1182px;
-  margin: 104px -21px 0;
+  margin: 58px -21px 0;
 }
 
 .u-section-1-5 .u-repeater-1 {
@@ -400,17 +396,17 @@
 .u-section-1-5 .u-text-3 {
   font-size: 1.25rem;
   font-weight: 700;
-  margin: 38px 0 0;
+  margin: 0;
 }
 
 .u-section-1-5 .u-icon-1 {
   height: 63px;
   width: 64px;
-  margin: 43px auto 0;
+  margin: 26px auto 0;
 }
 
 .u-section-1-5 .u-text-4 {
-  margin: 35px 14px 0;
+  margin: 26px 14px 0;
 }
 
 .u-section-1-5 .u-list-item-2 {
@@ -424,17 +420,17 @@
 .u-section-1-5 .u-text-5 {
   font-size: 1.25rem;
   font-weight: 700;
-  margin: 38px 0 0;
+  margin: 0;
 }
 
 .u-section-1-5 .u-icon-2 {
   height: 63px;
   width: 64px;
-  margin: 43px auto 0;
+  margin: 26px auto 0;
 }
 
 .u-section-1-5 .u-text-6 {
-  margin: 35px 14px 0;
+  margin: 26px 14px 0;
 }
 
 .u-section-1-5 .u-list-item-3 {
@@ -448,17 +444,17 @@
 .u-section-1-5 .u-text-7 {
   font-size: 1.25rem;
   font-weight: 700;
-  margin: 38px 0 0;
+  margin: 0;
 }
 
 .u-section-1-5 .u-icon-3 {
   height: 63px;
   width: 64px;
-  margin: 43px auto 0;
+  margin: 26px auto 0;
 }
 
 .u-section-1-5 .u-text-8 {
-  margin: 35px 14px 0;
+  margin: 26px 14px 0;
 }
 
 .u-section-1-5 .u-list-item-4 {
@@ -472,17 +468,17 @@
 .u-section-1-5 .u-text-9 {
   font-size: 1.25rem;
   font-weight: 700;
-  margin: 38px 0 0;
+  margin: 0;
 }
 
 .u-section-1-5 .u-icon-4 {
   height: 63px;
   width: 64px;
-  margin: 43px auto 0;
+  margin: 26px auto 0;
 }
 
 .u-section-1-5 .u-text-10 {
-  margin: 35px 14px 0;
+  margin: 26px 14px 0;
 }
 
 .u-section-1-5 .u-list-item-5 {
@@ -496,22 +492,22 @@
 .u-section-1-5 .u-text-11 {
   font-size: 1.25rem;
   font-weight: 700;
-  margin: 38px 0 0;
+  margin: 0;
 }
 
 .u-section-1-5 .u-icon-5 {
   height: 63px;
   width: 64px;
-  margin: 43px auto 0;
+  margin: 26px auto 0;
 }
 
 .u-section-1-5 .u-text-12 {
-  margin: 35px 14px 0;
+  margin: 26px 14px 0;
 }
 
 .u-section-1-5 .u-btn-1 {
   font-weight: 700;
-  margin: 38px auto 0;
+  margin: -18px 480px 60px auto;
 }
 
 @media (max-width: 1199px) {
@@ -540,7 +536,6 @@
 
   .u-section-1-5 .u-text-3 {
     width: auto;
-    margin-top: 0;
   }
 
   .u-section-1-5 .u-icon-1 {
@@ -560,7 +555,6 @@
 
   .u-section-1-5 .u-text-5 {
     width: auto;
-    margin-top: 0;
   }
 
   .u-section-1-5 .u-icon-2 {
@@ -580,7 +574,6 @@
 
   .u-section-1-5 .u-text-7 {
     width: auto;
-    margin-top: 0;
   }
 
   .u-section-1-5 .u-icon-3 {
@@ -600,7 +593,6 @@
 
   .u-section-1-5 .u-text-9 {
     width: auto;
-    margin-top: 0;
   }
 
   .u-section-1-5 .u-icon-4 {
@@ -620,7 +612,6 @@
 
   .u-section-1-5 .u-text-11 {
     width: auto;
-    margin-top: 0;
   }
 
   .u-section-1-5 .u-icon-5 {
@@ -635,7 +626,7 @@
   }
 
   .u-section-1-5 .u-btn-1 {
-    margin-top: 0;
+    margin-right: 280px;
     margin-bottom: 59px;
   }
 }
@@ -654,6 +645,7 @@
 
   .u-section-1-5 .u-btn-1 {
     margin-top: 15px;
+    margin-right: 60px;
     margin-bottom: 52px;
   }
 }
@@ -701,6 +693,7 @@
 
   .u-section-1-5 .u-btn-1 {
     margin-top: 26px;
+    margin-right: 0;
     margin-bottom: 51px;
   }
 }
